@@ -218,30 +218,6 @@ for h in xlist:
     plt.axvline(x=h,color='red',linestyle='--')
 plt.show()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 savepath = "D:\\data\\altas\\20240714_LHA\\morphology_scene"
 clusternumber=[29,57,4,58,44,34,37,65,50,101,37,23,
                40,34,70,6,7,29,17,16,43,47,35,33]
